@@ -27,7 +27,7 @@ Nesse projeto, você será capaz de:
 ---
 
 # Projeto será refatorado
-### Como projeto foi executado em grupo foi mantido legado, porém existe a necissade de refatoração para melhorar semantica e estrutura do código.
+### Como projeto foi executado em grupo foi mantido legado, porém existe a necessidade de refatoração para melhorar semantica e estrutura do código.
 
 ## Requisitos do projeto
 
